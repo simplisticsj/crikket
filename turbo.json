@@ -5,6 +5,9 @@
     "DATABASE_URL",
     "NEXTAUTH_SECRET",
     "NEXTAUTH_URL",
+    "NEXT_PUBLIC_SITE_URL",
+    "NEXT_PUBLIC_APP_URL",
+    "NEXT_PUBLIC_SERVER_URL",
     "NODE_ENV"
   ],
   "tasks": {
